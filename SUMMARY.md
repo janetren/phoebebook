@@ -10,4 +10,4 @@
  * [英语01](english/01.md)
  * [英语02](english/02.md)
 
-
+* [名字解释](GLOSSARY.md)
