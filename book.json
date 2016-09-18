@@ -1,132 +1,64 @@
 {
     "plugins": [
- "github",
-
- "theme-api",
-
- "ace",
-
- "emphasize",
-
- "include-codeblock",
-        "katex"
+        "github",
+        "theme-api",
+        "ace",
+        "emphasize",
+        "include-codeblock",
+        "katex",
+        "mermaid"
     ],
- "pluginsConfig": {
-
- "fontSettings": {
-
- "theme": "sepia",
-
- "family": "serif",
-
- "size": 1
-
- },
-
- "theme-api": {
-
- "languages": [
-
- {
-
- "lang": "js",
-
- "name": "JavaScript",
-
- "default": true
-
- },
-
- {
-
- "lang": "java",
-
- "name": "Java"
-
- }
-
- ]
-
- },
-
-
- "github": {
-
- "url": "https://github.com/lynnhawk/phoebebook.git"
-
- },
-
- "tbfed-pagefooter": {
-
- "copyright": "Copyright &copy www.pthink.com.cn 2016",
-
- "modify_label": "modified: ",
-
- "modify_format": "YYYY-MM-DD HH:mm:ss"
-
- },
-
-"-gitbook-plugin-signature":{
-
-"autoTimeStamp": {
-
-"color":"gray",
-
-"timeStampFormat": "YYYY-MM-DD HH:mm:ss"
-
-},
-
-"autoCopyright":{
-
-"color":"gray",
-
-"owner":"Hao",
-
-"center":true
-
-},
-
-"signature":{
-
-"key": "customized signature"
-
-}
-
-}
-
-
-
- },
-
-     "author": "phy",
-
- "pdf": {
-
- "fontSize": 12,
-
- "paperSize": "a4",
-
- "pageNumbers": false,
-
- "margin": {
-
- "left": 62,
-
- "right": 62,
-
- "top": 36,
-
- "bottom": 36
-
- },
-
- "toc": true
-
- },
-
-
- "title": "phoebe book",
-
- "description": "phoebe book"
-
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 1
+        },
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "java",
+                    "name": "Java"
+                }
+            ]
+        },
+        "github": {
+            "url": "https://github.com/lynnhawk/phoebebook.git"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy www.pthink.com.cn 2016",
+            "modify_label": "modified: ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "-gitbook-plugin-signature": {
+            "autoTimeStamp": {
+                "color": "gray",
+                "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+            },
+            "autoCopyright": {
+                "color": "gray",
+                "owner": "Hao",
+                "center": true
+            },
+            "signature": {
+                "key": "customized signature"
+            }
+        }
+    },
+    "author": "phy",
+    "pdf": {
+        "pageNumbers": false,
+        "margin": {
+            "top": 36,
+            "bottom": 36
+        },
+        "toc": true
+    },
+    "title": "phoebe book",
+    "description": "phoebe book"
 }
