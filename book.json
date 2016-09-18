@@ -3,5 +3,26 @@
         "ace",
         "katex"
     ],
-    "title": phoebe books
+     "author": "phy",
+
+ "pdf": {
+
+ "pageNumbers": false,
+
+ "margin": {
+
+ "top": 36,
+
+ "bottom": 36
+
+ },
+
+ "toc": true
+
+ },
+
+ "title": "phoebe book",
+
+ "description": "phoebe book"
+
 }
