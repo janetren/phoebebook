@@ -1,6 +1,14 @@
 {
     "plugins": [
-        "ace",
+ "github",
+
+ "theme-api",
+
+ "ace",
+
+ "emphasize",
+
+ "include-codeblock",
         "katex"
     ],
      "author": "phy",
