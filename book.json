@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "ace",
+        "katex"
+    ],
+    "title": phoebe books
+}
