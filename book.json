@@ -7,7 +7,7 @@
         "include-codeblock",
         "katex",
         "-taucharts",
-        "mermaid-2",
+        "mermaid",
         "-highlight",
         "-sharing"
     ],
@@ -38,7 +38,7 @@
             "modify_label": "modified: ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "mermaid-2": {
+        "-mermaid-2": {
             "theme": "forest" 
         }
     },
