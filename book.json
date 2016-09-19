@@ -6,6 +6,7 @@
         "emphasize",
         "include-codeblock",
         "katex",
+        "taucharts",
         "-mermaid",
         "-highlight",
         "-sharing"
