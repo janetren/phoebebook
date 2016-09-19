@@ -7,7 +7,7 @@
         "include-codeblock",
         "katex",
         "taucharts",
-        "-mermaid",
+        "mermaid",
         "-highlight",
         "-sharing"
     ],
