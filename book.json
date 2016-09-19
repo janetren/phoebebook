@@ -7,7 +7,7 @@
         "include-codeblock",
         "katex",
         "-taucharts",
-        "mermaid",
+        "mermaid-2",
         "-highlight",
         "-sharing"
     ],
@@ -37,6 +37,9 @@
             "copyright": "Copyright &copy phoebe 2016",
             "modify_label": "modified: ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "mermaid-2": {
+            "theme": "forest" 
         }
     },
     "author": "phy",
