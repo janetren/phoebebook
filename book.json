@@ -6,7 +6,9 @@
         "emphasize",
         "include-codeblock",
         "katex",
-        "-mermaid"
+        "-mermaid",
+        "-highlight",
+        "-sharing"
     ],
     "pluginsConfig": {
         "fontSettings": {
@@ -37,8 +39,14 @@
         }
     },
     "author": "phy",
-"pdf": { "fontSize": 12, "paperSize": "a4", "pageNumbers": false, "margin": { "left": 62, "right": 62, "top": 36, "bottom": 36 }, "toc": true },
-
+    "pdf": {
+        "pageNumbers": false,
+        "margin": {
+            "top": 36,
+            "bottom": 36
+        },
+        "toc": true
+    },
     "title": "phoebe book",
     "description": "phoebe book"
 }
