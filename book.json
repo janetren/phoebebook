@@ -6,7 +6,7 @@
         "emphasize",
         "include-codeblock",
         "katex",
-        "mermaid-compat"
+        "mermaid-gb3"
     ],
     "pluginsConfig": {
         "github": {
