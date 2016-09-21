@@ -1,0 +1,44 @@
+{
+    "plugins": [
+        "github",
+        "theme-api",
+        "ace",
+        "emphasize",
+        "include-codeblock",
+        "katex",
+        "mermaid"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/lynnhawk/phoebebook.git"
+        },
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "java",
+                    "name": "Java"
+                }
+            ]
+        }
+    },
+    "author": "phy",
+    "pdf": {
+        "fontSize": 12,
+        "paperSize": "a4",
+        "pageNumbers": false,
+        "margin": {
+            "left": 62,
+            "right": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "toc": true
+    },
+    "title": "phoebe book",
+    "description": "phoebe book"
+}
