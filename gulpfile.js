@@ -4,7 +4,7 @@ var gulp = require("gulp"),
 gulp.task('publish', function () {  
   return gulp.src("_book/**/*.*")
     .pipe(deploy({
-      remoteUrl: "https://github.com/janetren/pthinkbook.git"
+      remoteUrl: "https://github.com/janetren/phoebebook.git"
     }))
     .on("error", function(err){
       console.log(err)
