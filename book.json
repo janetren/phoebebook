@@ -24,6 +24,9 @@
                     "name": "Java"
                 }
             ]
+        },
+        "mermaid-compat": { 
+            "theme": "forest" 
         }
     },
     "author": "phy",
