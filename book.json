@@ -10,7 +10,7 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/lynnhawk/phoebebook.git"
+            "url": "https://github.com/janetren/phoebebook.git"
         },
         "theme-api": {
             "languages": [
