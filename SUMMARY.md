@@ -11,4 +11,8 @@
  * [英语01](english/01.md)
  * [英语02](english/02.md)
  * [英语03](english/03.md)
+* [计算机](computer/README.md)
+ * [计算机01](computer/01.md)
+
+ 
 * [名字解释](GLOSSARY.md)
